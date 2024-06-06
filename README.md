@@ -5,6 +5,9 @@ Check the Youtube Video of the Project
 *Link to the video!*
 https://youtu.be/6LeA58FwJtw
 
+After Ending the Video it turns out the error in the Header was because i didnt name the header file with .js
+now it worked correctly.
+
 
 
 Home Page
