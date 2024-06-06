@@ -43,4 +43,4 @@ ChatGPT-3, 06/06/2024 of the prompt*, “![6](https://github.com/FirasMir/cpit-4
 
 *Fixing the error the occur in the ProductContext file for misusing the children and identify rights*
 
->> * All the Prompt in ChatGPt that used are in the Video didnt mention it all because of my laptop has restarting for unknown reason and delete the history and forgot to sign in and save it*
+!! * All the Prompt in ChatGPt that used are in the Video didnt mention it all because of my laptop has restarting for unknown reason and delete the history and forgot to sign in and save it*
