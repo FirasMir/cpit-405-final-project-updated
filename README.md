@@ -1,4 +1,4 @@
-Check the Youtube Video for the Project
+Check the Youtube Video of the Project
 
 ![Youtube Video](https://github.com/FirasMir/cpit-405-final-project-updated/assets/117066902/68553e9f-35ad-497e-afcd-34d477d95bf3)
 
